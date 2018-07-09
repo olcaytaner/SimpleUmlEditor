@@ -1,0 +1,5 @@
+package Panel;
+
+public enum EnumCommand {
+    EMPTY, ACTOR, USE_CASE, AGGREGATION, CLASS, CONNECTION, INHERITANCE, MESSAGE, ATTRIBUTE, METHOD;
+}
